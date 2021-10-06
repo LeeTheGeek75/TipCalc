@@ -1,1 +1,0 @@
-C:\Users\ff1f102\Documents\projects\TipCalc\TipCalc.UWP\TipCalc.UWP.csproj;x86
