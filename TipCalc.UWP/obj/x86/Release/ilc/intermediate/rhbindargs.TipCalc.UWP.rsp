@@ -1,0 +1,18 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.10-rel-29722-00\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\ff1f102\Documents\projects\TipCalc\TipCalc.UWP\obj\x86\Release\ilc\intermediate\MDIL\TipCalc.UWP.mdilexe"
+"/i:C:\Users\ff1f102\Documents\projects\TipCalc\TipCalc.UWP\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\ff1f102\Documents\projects\TipCalc\TipCalc.UWP\obj\x86\Release\ilc\intermediate\Native\TipCalc.UWP.exe"
+"/pdbAltPath:C:\Users\ff1f102\Documents\projects\TipCalc\TipCalc.UWP\bin\x86\Release\ilc"
+"/res:C:\Users\ff1f102\Documents\projects\TipCalc\TipCalc.UWP\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"
+"/sourcelink:C:\Users\ff1f102\Documents\projects\TipCalc\TipCalc.UWP\obj\x86\Release\ilc\intermediate\ILTransformed\MvvmCross.Plugin.Visibility.srclink"
+"/sourcelink:C:\Users\ff1f102\Documents\projects\TipCalc\TipCalc.UWP\obj\x86\Release\ilc\intermediate\ILTransformed\MvvmCross.srclink"
